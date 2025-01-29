@@ -19,13 +19,13 @@ Before transitioning to AI & Data Science, I worked extensively in control syste
 
 🚆 Umlaut GmbH – Analyzed Deutsche Bahn’s fault data using Python & Power BI; designed a train brake valve test bench with PLC programming
 
-🐝 PlanBee Project – Developed an IoT-enabled automated beehive using Raspberry Pi and integrated real-time sensor data with Firebase.
+🐝 PlanBee Project – Developed an IoT-enabled automated beehive using Raspberry Pi and integrated real-time sensor data with Firebase
 
 🏭 Coca-Cola Beverages – Led electrical maintenance & automation, troubleshooting PLCs, drives, and sensors to ensure optimal system performance
 
 ## 📫 Contact 
 
-You can reach me via email at nilesh1110solanki@gmail.com or solankinilesh.ic@gmail.com.
+You can reach me via email at nilesh1110solanki@gmail.com or solankinilesh.ic@gmail.com
 
 ## 📌 Featured Projects
 
