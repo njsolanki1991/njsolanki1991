@@ -1,4 +1,4 @@
-👋# Hello, I'm Nilesh!
+👋 Hello, I'm Nilesh!
 🚀 AI & Machine Learning Enthusiast | Data Science | IoT & Automation
 
 I am passionate about leveraging AI, Machine Learning, and Data Science to solve real-world problems. My expertise includes deep learning, predictive analytics, and IoT integration, with hands-on experience in Python, TensorFlow, and Power BI.
@@ -21,7 +21,7 @@ IoT & AI-driven Smart Systems
 ⚡ Previous Experience in Electrical & Control Engineering
 Before transitioning to AI & Computer Science, I worked extensively with PLC programming, drives, and switchgear at Coca-Cola Beverages and designed train brake valve test benches at Umlaut GmbH.
 
-📫 Get in Touch
+📫 Get in Touch: 
 📧 Email: nilesh1110solanki@gmail.com / solankinilesh.ic@gmail.com
 🌐 LinkedIn: [www.linkedin.com/in/solankinileshic/]
 📂 GitHub: [github.com/njsolanki1991]
